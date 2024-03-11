@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-tubs)x8q#q5fqfgb8k240ck1+1ephuy-^h)*_2k9@dbb(s)q0t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
